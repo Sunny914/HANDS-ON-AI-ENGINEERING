@@ -1,0 +1,11 @@
+{
+  "dataset_version": "shape-only",
+  "notes": "Input shape. This file is not a scored report and not a solution.",
+  "cases": [
+    {
+      "id": "c1",
+      "relevant_ids": ["a", "b"],
+      "retrieved_ids": ["a", "c", "b"]
+    }
+  ]
+}

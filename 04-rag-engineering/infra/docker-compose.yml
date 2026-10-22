@@ -1,0 +1,12 @@
+# Local Postgres for the optional pgvector exercise.
+# Confirm the image tag before use. See ASSUMPTIONS.md.
+# The password is a local dummy, not a deployed secret.
+services:
+  postgres:
+    image: pgvector/pgvector:pg16
+    environment:
+      POSTGRES_USER: rag
+      POSTGRES_PASSWORD: rag-local-only
+      POSTGRES_DB: ragdev
+    ports:
+      - "5432:5432"

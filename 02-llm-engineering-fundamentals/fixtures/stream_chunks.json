@@ -1,0 +1,7 @@
+{
+  "chunks": [
+    {"type": "text", "delta": "A catalog "},
+    {"type": "text", "delta": "sync."},
+    {"type": "usage", "input_tokens": 4, "output_tokens": 3}
+  ]
+}

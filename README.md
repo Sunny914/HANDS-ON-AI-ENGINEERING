@@ -19,7 +19,12 @@ Before working here, read:
 
 | Document | Purpose |
 |----------|---------|
-| [AI_TRAINING_RULES.md](./AI_TRAINING_RULES.md) | Roles, code-generation policy, hint levels, module flow, mini-project rules |
+| [CURRICULUM_CONSTITUTION.md](./CURRICULUM_CONSTITUTION.md) | Goals, learning philosophy, and non-negotiable rules |
+| [MASTER_ROADMAP.md](./MASTER_ROADMAP.md) | All 17 stages, dependencies, and project directions |
+| [LEARNING_PROTOCOL.md](./LEARNING_PROTOCOL.md) | How to study, implement, test, debug, and use hints |
+| [EXERCISE_AND_PROJECT_STANDARDS.md](./EXERCISE_AND_PROJECT_STANDARDS.md) | What a valid exercise or mini-project must contain |
+| [CURRICULUM_GENERATION_PLAN.md](./CURRICULUM_GENERATION_PLAN.md) | Audit findings and the plan for scaffolding later stages |
+| [AI_TRAINING_RULES.md](./AI_TRAINING_RULES.md) | Original assistant operating rules; refined by the documents above |
 | [PROGRESS.md](./PROGRESS.md) | Stage checklist and personal learning log |
 
 ### Learning flow (per module)
@@ -35,7 +40,7 @@ LEARN → UNDERSTAND → PRACTICE → IMPLEMENT FROM SCRATCH → DEBUG → INTEG
 2. **Level 2 — Meaningful learning module** (scaffolded when you start a stage)
 3. **Level 3 — Exercises + mini-project** (created with the module, not upfront)
 
-Stages are **not** pre-filled with hundreds of micro-topics. Each stage directory exists as a placeholder until you begin that stage; then scaffolding, architecture docs, and exercises are added incrementally.
+Stage 00 and Stages 01–16 are scaffolded. Later stages are not part of this repository. The batch history is in [CURRICULUM_GENERATION_PLAN.md](./CURRICULUM_GENERATION_PLAN.md). Stages stay organized as capabilities, not as hundreds of isolated micro-topics.
 
 ### Framework principle
 
@@ -70,7 +75,7 @@ Commits are **your** responsibility; nothing in this repo auto-commits progress.
 | 06 | [06-memory-state-management](./06-memory-state-management/) | Memory architectures |
 | 07 | [07-agent-fundamentals](./07-agent-fundamentals/) | Agents, ReAct, planning |
 | 08 | [08-langgraph](./08-langgraph/) | Graph workflows, state |
-| 09 | [09-single-agent-engineering](./09-single-agent-engineering/) | Production-oriented single agent |
+| 09 | [09-single-agent-engineering](./09-single-agent-engineering/) | One agent, recovery, evidence |
 | 10 | [10-multi-agent-systems](./10-multi-agent-systems/) | Delegation, multi-agent design |
 | 11 | [11-human-in-the-loop](./11-human-in-the-loop/) | Approval, checkpoints, audit |
 | 12 | [12-evaluation](./12-evaluation/) | Metrics, harnesses, regression |
@@ -93,4 +98,4 @@ REAL SYSTEMS     > TOY DEMOS
 
 1. Read [AI_TRAINING_RULES.md](./AI_TRAINING_RULES.md).
 2. Open [PROGRESS.md](./PROGRESS.md) and set your current stage.
-3. When ready, begin **Stage 00** and ask for scaffolding for the first module only—exercises and mini-projects are added as you go.
+3. When you resume study, begin **Stage 00**. Stages 01–16 already contain exercises and project specifications. They are not finished work until you implement them.

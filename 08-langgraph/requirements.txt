@@ -1,0 +1,3 @@
+langgraph>=1,<2
+# PyPI on 2026-10-21 reported 1.2.16, which this range allows. See ASSUMPTIONS.md.
+pytest>=8

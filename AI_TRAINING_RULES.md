@@ -1,5 +1,7 @@
 # AI Training Rules
 
+Repository-wide curriculum governance now lives in [CURRICULUM_CONSTITUTION.md](./CURRICULUM_CONSTITUTION.md), [LEARNING_PROTOCOL.md](./LEARNING_PROTOCOL.md), and [EXERCISE_AND_PROJECT_STANDARDS.md](./EXERCISE_AND_PROJECT_STANDARDS.md). This file remains the original operating rules for assistants. Where hint levels differ, [LEARNING_PROTOCOL.md](./LEARNING_PROTOCOL.md) is the current definition: H4 is an attempt review, and a full worked solution is exceptional and must be explicitly requested.
+
 This document defines how this repository and any training assistant should behave. It exists so practice stays aligned with the goal: **independent AI/software engineering ability**.
 
 ## Primary objective

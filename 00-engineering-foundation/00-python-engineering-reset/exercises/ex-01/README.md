@@ -48,9 +48,14 @@ Practice literals, operators, and type introspection without libraries.
 
 Numeric means `int` or `float` in this exercise; decide explicitly whether `bool` counts.
 
+## New to this repo?
+
+Read [GETTING_STARTED.md](../../GETTING_STARTED.md). Use the commented starter **[solution.py](./solution.py)** — fill in the `TODO` sections yourself.
+
 ## Files
 
-Create your own `.py` files in this folder unless the exercise provides a starter.
+- **Starter:** [solution.py](./solution.py) (comment map; you implement)
+- You may use another filename, but keep one main file per exercise to avoid confusion
 
 ## Hints elsewhere
 

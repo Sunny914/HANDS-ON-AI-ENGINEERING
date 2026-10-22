@@ -6,6 +6,10 @@ Rapidly refresh Python while **implementing** every exercise yourself. Topics ar
 
 See [CONCEPTS.md](../CONCEPTS.md) (Module 00 section).
 
+## New here?
+
+Start with **[GETTING_STARTED.md](./GETTING_STARTED.md)** — how to run files, order of `def` vs calls, and the hint ladder.
+
 ## Level map
 
 | Level | Focus | Exercises |

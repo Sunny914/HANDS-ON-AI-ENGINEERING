@@ -1,0 +1,7 @@
+{
+  "notes": "Replace chunk ids with ids your ingestion test produces. This file is a shape example.",
+  "cases": [
+    {"question": "How long is the return window?", "expected_chunk_ids": ["returns-1"]},
+    {"question": "Which plan includes audits?", "expected_chunk_ids": ["plans-1"]}
+  ]
+}

@@ -1,0 +1,7 @@
+{
+  "id": "resp_a_1",
+  "model": "fixture-a-small",
+  "output_text": "A catalog sync copies one product.",
+  "usage": {"input_tokens": 12, "output_tokens": 8},
+  "finish_reason": "stop"
+}
